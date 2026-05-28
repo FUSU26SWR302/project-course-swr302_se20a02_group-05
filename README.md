@@ -33,7 +33,7 @@ docs/
 .github/
 README.md
 ```
-
+[Link jira of team CVerify](https://cverify.atlassian.net/jira/software/projects/CVERIFY/summary)
 ---
 
 ## 4. Required AI Audit Documents
